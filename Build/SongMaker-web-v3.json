@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SongMaker",
+"dataUrl": "SongMaker-web-v3.data.unityweb",
+"wasmCodeUrl": "SongMaker-web-v3.wasm.code.unityweb",
+"wasmFrameworkUrl": "SongMaker-web-v3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
